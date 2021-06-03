@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jormariom
 - 👀 I’m begginer at programming
-- 🌱 I’m currently learning JavaScript and Python
+- 🌱 I’m currently learning JavaScript, Python and many other languages
 - 💞️ I’m looking to collaborate on small and basic proyects
 
 Date: (06/03/21)
