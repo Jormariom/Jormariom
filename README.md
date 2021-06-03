@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jormariom
-- 👀 I’m interested in learning programming
+- 👀 I’m begginer at programming
 - 🌱 I’m currently learning JavaScript and Python
 - 💞️ I’m looking to collaborate on small and basic proyects
 
