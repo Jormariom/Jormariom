@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Jormariom
 - 👀 I’m begginer at programming
-- 🌱 I’m currently learning JavaScript, Python and many other languages
+- 🌱 I’m currently learning JavaScript, Python
+- 💬 Spanish / English
 
 Date: (06/03/21)
 
